@@ -5,7 +5,7 @@
 
 [#introduction]
 == Introduction
-
+#m
 image::images/jenkins-and-git.png[Jenkins and Git]
 
 The git client plugin provides git application programming interfaces (APIs) for Jenkins plugins.
